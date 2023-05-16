@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safvan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
 - 🌱 I’m currently learning **Typescript**
