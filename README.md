@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **safvanmanikulath@gmail.com**
+- 📫 Reach me at **safvanmanikulath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
