@@ -34,7 +34,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-[![Muhammed safvan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Safvan-tsy&&theme=xcode)](https://github.com/Safvan-tsy)
+[![safvan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Safvan-tsy&&theme=xcode)](https://github.com/Safvan-tsy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safvan-tsy&layout=compact&theme=tokyonight" alt="Safvan-tsy" /></p>
 
