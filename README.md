@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safvan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed-safvan-8b912a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-safvan-8b912a21b/" height="30" width="40" />
-</a>
-</p>
 
+<h5 align="left">Technologies I have been working with recently</h5>
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></a> 
