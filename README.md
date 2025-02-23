@@ -5,7 +5,7 @@
 <h5 align="left">Technologies I have been working with recently</h5>
 <p align="left"> 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,cs,mongodb,redis,postgres,express,nestjs,dotnet," /> <br/>
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwindcss,git,aws,docker,prometheus,linux" /> <br/>
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwindcss,git,aws,docker,prometheus,linux" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safvan-tsy&layout=compact&theme=tokyonight" alt="Safvan-tsy" /></p>
