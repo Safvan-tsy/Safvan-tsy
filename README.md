@@ -10,7 +10,7 @@
 
 <h5 align="left">Technologies I have been working with recently</h5>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,cs,mongodb,redis,postgres,express,nestjs," /> <br/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,mongodb,redis,postgres,express,nestjs," /> <br/>
 <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwindcss,git,aws,docker,prometheus,linux" />
 </p>
 
